@@ -1,22 +1,24 @@
 ![Fernata-sudo](banner-g.png)
 
-# Hy Everyone, I am Fernata👋
 
-<p align="center">
-I am a Student... and still a layperson😃
-</p>
-<p align="center">
-I come from Indonesia
+# 💫 About Me:
+Hy Everyone! I am Fernata<br>I am a Student... and still a layperson😃, I like anything related to technology, <br>especially the Android AOSP operating system. I come from Indonesia. <br>I created this account just to learn and understand about technology <br>and find out what I don't know.
 
-<br>
-<br>
-<p align="center">
-Skill✨
-<br>
-<br>
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white
-https://img.shields.io/badge/cinema%204d-" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+## 🌐 Socials:
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@fernata.1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rizgadgetin@gmail.com) 
+
+# 💻 Tech Stack:
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Fernata-sudo&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Fernata-sudo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Fernata-sudo&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Fernata-sudo&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <br>
 <br>
 <br>
