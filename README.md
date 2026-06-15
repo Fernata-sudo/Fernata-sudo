@@ -1,4 +1,4 @@
-![Fernata-sudo](fernata-banner.png)
+![Fernata-sudo](banner-g.png)
 
 ## Hello Everyone, I am Fernata👋
 
