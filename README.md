@@ -42,4 +42,7 @@ The browser I use
 
 
 .....
+<br>
+<p align="center">
+
 ![hello](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M3ljcDludzh0eTBiM2t5eW9tdjdodzFuMXBzNzF6a3FhdXAwdjhtdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ErZ8hv5eO92JW/giphy.gif)
